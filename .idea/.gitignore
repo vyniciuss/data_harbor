@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/misc.xml
+/.idea/
+
+/inspectionProfiles/profiles_settings.xml
+/inspectionProfiles/Project_Default.xml
+/vcs.xml
+/data_harbor.iml
+/modules.xml
+/.coverage
+/git_toolbox_prj.xml
